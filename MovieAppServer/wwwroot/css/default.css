@@ -1,0 +1,36 @@
+#upperBar {
+    width: 98%;
+    height: 48px;
+    border: 2px solid black;
+    position: fixed;
+    background-color: brown;
+}
+
+#upperMenuBar {
+    width: 60%;
+    height: 100%;
+    position: relative;
+    top: 10px;
+}
+
+#butMainSite, #butMovies, #butLogin, #butPlaceholder {
+    background-color: aqua;
+    border: 2px solid black;
+}
+
+#mainTable {
+    margin: auto;
+    left: 20%;
+    border: 2px solid black;
+    position: absolute;
+    width: 75%;
+    top: 10%;
+    background-color: blue;
+}
+#leftBar {
+    border: 2px solid black;
+    width: 7%;
+    top: 8%;
+    height: 700px;
+    position: fixed;
+}
