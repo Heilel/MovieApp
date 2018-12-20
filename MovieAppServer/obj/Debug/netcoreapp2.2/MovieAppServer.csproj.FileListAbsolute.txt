@@ -23,3 +23,17 @@ C:\Users\heile\Desktop\GitHub\MovieApp\MovieAppServer\obj\Debug\netcoreapp2.2\Mo
 C:\Users\heile\Desktop\GitHub\MovieApp\MovieAppServer\obj\Debug\netcoreapp2.2\MovieAppServer.RazorTargetAssemblyInfo.cache
 C:\Users\heile\Desktop\GitHub\MovieApp\MovieAppServer\obj\Debug\netcoreapp2.2\MovieAppServer.dll
 C:\Users\heile\Desktop\GitHub\MovieApp\MovieAppServer\obj\Debug\netcoreapp2.2\MovieAppServer.pdb
+C:\Users\heile\Source\Repos\Heilel\MovieApp\MovieAppServer\obj\Debug\netcoreapp2.2\MovieAppServer.dll
+C:\Users\heile\Source\Repos\Heilel\MovieApp\MovieAppServer\obj\Debug\netcoreapp2.2\MovieAppServer.pdb
+C:\Users\heile\source\repos\Heilel\MovieApp\MovieAppServer\bin\Debug\netcoreapp2.2\MovieAppServer.deps.json
+C:\Users\heile\source\repos\Heilel\MovieApp\MovieAppServer\bin\Debug\netcoreapp2.2\MovieAppServer.runtimeconfig.json
+C:\Users\heile\source\repos\Heilel\MovieApp\MovieAppServer\bin\Debug\netcoreapp2.2\MovieAppServer.runtimeconfig.dev.json
+C:\Users\heile\source\repos\Heilel\MovieApp\MovieAppServer\bin\Debug\netcoreapp2.2\MovieAppServer.dll
+C:\Users\heile\source\repos\Heilel\MovieApp\MovieAppServer\bin\Debug\netcoreapp2.2\MovieAppServer.pdb
+C:\Users\heile\source\repos\Heilel\MovieApp\MovieAppServer\obj\Debug\netcoreapp2.2\MovieAppServer.csprojAssemblyReference.cache
+C:\Users\heile\source\repos\Heilel\MovieApp\MovieAppServer\obj\Debug\netcoreapp2.2\MovieAppServer.csproj.CoreCompileInputs.cache
+C:\Users\heile\source\repos\Heilel\MovieApp\MovieAppServer\obj\Debug\netcoreapp2.2\MovieAppServer.RazorAssemblyInfo.cache
+C:\Users\heile\source\repos\Heilel\MovieApp\MovieAppServer\obj\Debug\netcoreapp2.2\MovieAppServer.RazorAssemblyInfo.cs
+C:\Users\heile\source\repos\Heilel\MovieApp\MovieAppServer\obj\Debug\netcoreapp2.2\MovieAppServer.AssemblyInfoInputs.cache
+C:\Users\heile\source\repos\Heilel\MovieApp\MovieAppServer\obj\Debug\netcoreapp2.2\MovieAppServer.AssemblyInfo.cs
+C:\Users\heile\source\repos\Heilel\MovieApp\MovieAppServer\obj\Debug\netcoreapp2.2\MovieAppServer.RazorTargetAssemblyInfo.cache

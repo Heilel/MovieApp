@@ -14411,11 +14411,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\heile\\Desktop\\GitHub\\MovieApp\\MovieAppServer\\MovieAppServer.csproj",
+      "projectUniqueName": "C:\\Users\\heile\\source\\repos\\Heilel\\MovieApp\\MovieAppServer\\MovieAppServer.csproj",
       "projectName": "MovieAppServer",
-      "projectPath": "C:\\Users\\heile\\Desktop\\GitHub\\MovieApp\\MovieAppServer\\MovieAppServer.csproj",
+      "projectPath": "C:\\Users\\heile\\source\\repos\\Heilel\\MovieApp\\MovieAppServer\\MovieAppServer.csproj",
       "packagesPath": "C:\\Users\\heile\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\heile\\Desktop\\GitHub\\MovieApp\\MovieAppServer\\obj\\",
+      "outputPath": "C:\\Users\\heile\\source\\repos\\Heilel\\MovieApp\\MovieAppServer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
