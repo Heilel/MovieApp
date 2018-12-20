@@ -1,36 +1,47 @@
-#upperBar {
-    width: 98%;
-    height: 48px;
-    border: 2px solid black;
-    position: fixed;
-    background-color: brown;
+header {
+    background-color: rgb(194, 194, 194);
+}
+header h1 {
+    text-align: center;
+    padding: 5px;
+    margin: 0;
+    text-shadow: 2px 2px rgba(45, 69, 175, 0.781);
 }
 
-#upperMenuBar {
-    width: 60%;
-    height: 100%;
-    position: relative;
-    top: 10px;
+header li {
+    display: inline;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Arial;
 }
 
-#butMainSite, #butMovies, #butLogin, #butPlaceholder {
-    background-color: aqua;
-    border: 2px solid black;
+header ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 20px 10px;
 }
 
-#mainTable {
-    margin: auto;
-    left: 20%;
-    border: 2px solid black;
-    position: absolute;
-    width: 75%;
-    top: 10%;
-    background-color: blue;
+li a {
+    color: black;
+    text-decoration: none;
+    padding:  10px 20px;
+    text-align: center;
 }
-#leftBar {
-    border: 2px solid black;
-    width: 7%;
-    top: 8%;
-    height: 700px;
-    position: fixed;
+
+li a:hover {
+    background-color: rgba(64, 99, 255, 0.781);
+    text-shadow: 2px 2px rgba(45, 69, 175, 0.781);
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+main {
+    align-self: auto;
+    background-color: aliceblue;
+    margin: 0 110px;
+}
+main h4 {
+    align-self: center;
 }
